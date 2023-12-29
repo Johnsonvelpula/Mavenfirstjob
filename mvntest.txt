@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hi this is chandu
-=======
 hi am johnson
->>>>>>> ddb61dd6489f82e71b260dc58eed9afed334621e
+first this should come

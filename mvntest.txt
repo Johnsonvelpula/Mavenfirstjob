@@ -1,3 +1,7 @@
 hi this is chandu
 hi am johnson
+<<<<<<< HEAD
 second this should come
+=======
+first this should come
+>>>>>>> 71db40ca4ca8eece585256101941ff7da8df48df
